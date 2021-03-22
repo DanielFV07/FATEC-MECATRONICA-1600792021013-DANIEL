@@ -1,0 +1,13 @@
+print('Ola Mundo')
+
+nome = "Daniel Fernandez"
+
+print(nome)
+
+print('Bom Dia', nome)
+
+produto = 'arduino'
+preco = 45.50
+
+print('o produto:', produto, "custa R$ ", preco , "Reais")
+print(f'o produto: {produto} custa R$ {preco} Reais')
